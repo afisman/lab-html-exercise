@@ -81,11 +81,13 @@ nav a {
     background-color: rgba(232, 217, 217, .3);
     height: 50px;
 }
-
-.form-part {
-    color: rgba(0, 0, 0, .05);
+.nav-bar-button {
+    display: flex;
+    flex-direction: row;
     
 }
+
+
 
 
 .search-bar {
