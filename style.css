@@ -129,11 +129,13 @@ nav a {
     text-decoration: none;
     color: black;
 }
-.join-button {
+.join-button  {
     border: 0.5px solid gray;
-    
+    font-size: 16px;
 }
-
+.login-button {
+    font-size: 16px;
+}
 
 #builder-section {
     display: flex;
