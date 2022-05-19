@@ -22,7 +22,7 @@ nav {
 #top-left {
     display: flex;
     justify-content: flex-start;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     font-size: small;
     
 }
