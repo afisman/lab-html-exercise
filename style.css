@@ -18,6 +18,7 @@ nav {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    flex-wrap: nowrap;
 }
 #top-left {
     display: flex;
