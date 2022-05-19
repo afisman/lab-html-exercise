@@ -116,7 +116,7 @@ nav a {
     list-style: none;
     display: flex;
     flex-flow: row;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     
 }
