@@ -43,7 +43,8 @@ nav ul {
     align-items: center;
 }
 span {
-    display: block;
+    display: flex;
+    flex-wrap: nowrap;
 }
 nav a {
     text-decoration: none;
