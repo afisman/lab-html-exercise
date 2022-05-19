@@ -23,7 +23,7 @@ nav {
     display: flex;
     justify-content: space-around;
     flex-wrap: nowrap;
-    font-size: small;
+    font-size: smaller;
     
 }
 
@@ -42,10 +42,7 @@ nav ul {
     justify-content: space-between;
     align-items: center;
 }
-span {
-    font-size: 12px;
 
-}
 nav a {
     text-decoration: none;
     color: black;
