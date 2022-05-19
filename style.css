@@ -116,6 +116,7 @@ nav a {
     list-style: none;
     display: flex;
     flex-flow: row;
+    flex-wrap: nowrap;
     justify-content: space-around;
     align-items: center;
     
@@ -132,6 +133,10 @@ nav a {
 .join-button  {
     border: 0.5px solid gray;
     
+}
+.login-button {
+    display: flex;
+    flex-wrap: nowrap;
 }
 
 
