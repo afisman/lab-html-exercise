@@ -122,7 +122,7 @@ nav a {
 }
 .button-list li {
     padding: 5px 10px;
-    
+    font-size: 12px;
 
 }
 .button-list a{
@@ -131,11 +131,9 @@ nav a {
 }
 .join-button  {
     border: 0.5px solid gray;
-    font-size: 16px;
+    
 }
-.login-button {
-    font-size: 16px;
-}
+
 
 #builder-section {
     display: flex;
