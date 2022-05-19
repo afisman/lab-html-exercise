@@ -24,7 +24,7 @@ nav {
     display: flex;
     justify-content: space-around;
     flex-wrap: nowrap;
-    font-size: smaller;
+    
     
 }
 
@@ -46,6 +46,7 @@ nav ul {
 span {
     display: flex;
     flex-wrap: nowrap;
+    font-size: 10px;
 }
 nav a {
     text-decoration: none;
