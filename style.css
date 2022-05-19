@@ -42,7 +42,9 @@ nav ul {
     justify-content: space-between;
     align-items: center;
 }
-
+span {
+    display: block;
+}
 nav a {
     text-decoration: none;
     color: black;
